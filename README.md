@@ -1,16 +1,36 @@
-# React + Vite
+# 🌱 Raita Mitra
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Your Smart Agriculture Companion
 
-Currently, two official plugins are available:
+Raita Mitra is an agriculture-focused web platform designed to help farmers access useful farming information and digital resources.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🚀 **Live Website:** [Visit Raita Mitra](https://raita-mitra-six.vercel.app/)
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🌾 Farmer-focused information and resources
+- 🌦️ Agriculture and weather-related information
+- 📱 User-friendly website interface
+- 💻 Responsive web design
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript
+- HTML and CSS
+
+## 🎯 Vision
+
+To make useful agricultural information more accessible to farmers through technology.
+
+## 👨‍💻 Developer
+
+**Mallikarjun Patil**
+
+- GitHub: [mallikarjunpatiil](https://github.com/mallikarjunpatiil)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/mallikarjun-patil-bb5634340/)
+
+---
+
+*Raita Mitra — Supporting farmers through technology.*
